@@ -1,9 +1,9 @@
-# 🎮 Название проекта: [Впиши своё]
+# 🎮 Название проекта:
 
 **Дата старта:** 2026-04-29  
 **Движок:** Godot 4.6  
 **Язык:** GDScript / C# (выбрать нужное)
-
+Скачать-https://drive.google.com/file/d/1kJHe1gMyhLBEIWzZGXYv0wPHhcrZyD66/view?usp=sharing
 ---
 
 ## 📁 Структура проекта
